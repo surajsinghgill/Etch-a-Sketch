@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(200, 200, 200);
+    text-align: center;
+}
+
+.grid-square {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    font-size: 1.3rem;
+    padding: 10px 15px;
+}
